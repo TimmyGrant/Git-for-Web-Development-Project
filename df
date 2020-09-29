@@ -1,0 +1,112 @@
+[1mdiff --git a/timmy-grant.txt b/timmy-grant.txt[m
+[1mindex 247e7ee..f0e148d 100644[m
+[1m--- a/timmy-grant.txt[m
+[1m+++ b/timmy-grant.txt[m
+[36m@@ -1,66 +1,49 @@[m
+[31m-<!--1. fork this codepen so that you have a copy on your account -->[m
+[31m-<!--2. Add HTML and CSS to make the codepen look like the example: https://codepen.io/BritHemming/full/jONmxOm  - note that you can change the colours but everything else must look the same -->[m
+[31m-<!-- 3. include the link to this completed codepen at the top of today's file first-lastname.txt --> [m
+[31m-<!-- 4. when you are finished - answer the questions at the bottom of this file -->[m
+[31m-Learning How to Code[m
+[31m- Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident aperiam earum mollitia enim pariatur atque asperiores, deserunt fuga iure distinctio! Amet iste facilis odio rerum maiores neque laboriosam non aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit eius officia reprehenderit dicta molestiae, excepturi inventore aut officiis! Perspiciatis, molestias tempora et nesciunt amet sint blanditiis eos voluptatibus ut facilis![m
+[31m-[m
+[31m-I'm a title[m
+[31m-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus minima porro, aspernatur esse iure quas vero totam ea cupiditate numquam accusamus enim, eius neque molestiae minus. Aliquam non repudiandae, sunt![m
+[31m-[m
+[31m-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto illo expedita ducimus incidunt similique voluptatum, error minus tenetur accusamus modi perferendis libero inventore quo, tempora. Repellendus quam eligendi, aliquid nobis.[m
+[31m-[m
+[31m-This is another section[m
+[31m- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto possimus, reiciendis consequatur inventore mollitia ipsa sed quibusdam! Aut nemo voluptatibus modi iste repudiandae ea beatae suscipit. Officia omnis laudantium quasi.[m
+[31m-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, ratione doloribus nam officia reiciendis eligendi architecto maxime quisquam unde non, illo libero iure aut ad consequuntur animi modi, recusandae voluptatum![m
+[31m-[m
+[31m-<img src="https://unsplash.it/200/200">[m
+[31m-<img src="https://unsplash.it/200/200">[m
+[31m-<img src="https://unsplash.it/200/200"> [m
+[31m-<img src="https://unsplash.it/200/200">[m
+[31m-[m
+[31m-[m
+ <!-- Questions to Submit in today's file first-lastname.txt --> [m
+ <!--[m
+ Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. [m
+ [m
+[31m-    1. What is Semantic HTML? [m
+[31m-    2. What is HTML used for? [m
+[31m-    3. What is an attribute and where do we put it? [m
+[31m-    4. What is the h1 tag used for? How many times should I use it on a page?[m
+[31m-    5. Name two tags that have required attributes[m
+[31m-    6. What do we put in the head of our HTML document? [m
+[31m-    7. What is an id? [m
+[31m-    8. What elements can I add an id to? [m
+[31m-    9. How many times can I use the same id on a page? [m
+[31m-    10. What is a class? [m
+[32m+[m[32m    1. What is Semantic HTML? its an element where its name is its meaning[m
+[32m+[m[32m    2. What is HTML used for? to set up webpages[m[41m [m
+[32m+[m[32m    3. What is an attribute and where do we put it? gives more information about an element[m
+[32m+[m[32m    4. What is the h1 tag used for? How many times should I use it on a page? usually used for a header, and only once.[m
+[32m+[m[32m    5. Name two tags that have required attributes? a hyperlink, and img[m
+[32m+[m[32m    6. What do we put in the head of our HTML document? title[m
+[32m+[m[32m    7. What is an id? used to specify one element[m
+[32m+[m[32m    8. What elements can I add an id to? header[m
+[32m+[m[32m    9. How many times can I use the same id on a page? only once[m
+[32m+[m[32m    10. What is a class? used to specify multiple elements[m
+     11. What elements can I add a class to? [m
+[31m-    12. How many times can I use the same class on a page? [m
+[31m-    13. How do I get my link to open in a new tab?[m
+[31m-    14. What is the alt attribute in the image tag used for? [m
+[31m-    15. How do I reference an id?[m
+[31m-    16. What is the difference between a section and a div[m
+[31m-    17. What is CSS used for? [m
+[31m-    18. How to we select an element? Example - every h2 on the page[m
+[31m-    19. What is the difference between a class and an id? - Give me an example of when I might use each one[m
+[31m-    20. How do we select classes in CSS?[m
+[31m-    21. How do we select a p element with a single class of “human””?[m
+[31m-    22. What is a parent child selector? When would this be useful? [m
+[31m-    23. How do you select all links within a div with the class of sidebar?[m
+[31m-    24. What is a pseudo selector?[m
+[31m-    25. What do we use the change the spacing between lines?[m
+[31m-    26. What do we use to change the spacing between letters?[m
+[31m-    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?[m
+[31m-    28. How do I add a 1px border around my div that is dotted and black?[m
+[31m-    29. How do I select everything on the page? [m
+[31m-    30. How do I write a comment in CSS?[m
+[31m-    31. How do I find out what file I am in, when I am using the command line? [m
+[31m-    32. Using the command line - how do I see a list of files/folders in my current folder?[m
+[31m-    33. How do I remove a file via the command line? Why do I have to be careful with this? [m
+[31m-    34. Why should I use version control? [m
+[31m-    35. How often should I commit to github?[m
+[31m-    36. What is the command we would use to push our repo up to github? [m
+[31m-    37. Walk me through Lambda's git flow. [m
+[32m+[m[32m    12. How many times can I use the same class on a page? multiple times[m
+[32m+[m[32m    13. How do I get my link to open in a new tab? target="_blank"[m
+[32m+[m[32m    14. What is the alt attribute in the image tag used for? to describe what the picture is. typically for the blind, or if pic doesnt load[m
+[32m+[m[32m    15. How do I reference an id? #[m
+[32m+[m[32m    16. What is the difference between a section and a div? div is block level, section is an inline element[m
+[32m+[m[32m    17. What is CSS used for? to style the webpage[m
+[32m+[m[32m    18. How to we select an element? Example - every h2 on the page. h2{[m
+[32m+[m[32m    19. What is the difference between a class and an id? - Give me an example of when I might use each one. class can be used for multiple elements, where as ID is for one element like a header[m
+[32m+[m[32m    20. How do we select classes in CSS? .[m
+[32m+[m[32m    21. How do we select a p element with a single class of “human””? .human{[m
+[32m+[m[32m    22. What is a parent child selector? When would this be useful? selects all elements that are a direct child of the parent element. it would be useful when needing to select a lot of the same child on a webpage[m
+[32m+[m[32m    23. How do you select all links within a div with the class of sidebar? .sidebar a{[m
+[32m+[m[32m    24. What is a pseudo selector? selects elements that are in a specific state[m
+[32m+[m[32m    25. What do we use the change the spacing between lines? <br>[m
+[32m+[m[32m    26. What do we use to change the spacing between letters? letter-spacing[m
+[32m+[m[32m    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? text-transform[m
+[32m+[m[32m    28. How do I add a 1px border around my div that is dotted and black? div{[m
+[32m+[m									[32m     border-style: dotted;[m
+[32m+[m									[32m     border-width: 1px;[m
+[32m+[m									[32m     border-color: black;[m
+[32m+[m									[32m    }[m
+[32m+[m[32m    29. How do I select everything on the page? *{[m
+[32m+[m[32m    30. How do I write a comment in CSS? /*comment*/[m
+[32m+[m[32m    31. How do I find out what file I am in, when I am using the command line? pwd[m
+[32m+[m[32m    32. Using the command line - how do I see a list of files/folders in my current folder? ls[m
+[32m+[m[32m    33. How do I remove a file via the command line? Why do I have to be careful with this? rm filename. want to be careful because its easy to accidentally delete something you didnt mean to.[m
+[32m+[m[32m    34. Why should I use version control? that way you can revert back to a previous build if need be[m
+[32m+[m[32m    35. How often should I commit to github? often[m
+[32m+[m[32m    36. What is the command we would use to push our repo up to github? git push -u origin first-last[m
+[32m+[m[32m    37. Walk me through Lambda's git flow. fork,add collaborator, clone, branch, add .,commit, push, pull req, add collab to reviewer.[m
+[32m+[m
+ [m
+ Stretch Questions[m
+ [m
